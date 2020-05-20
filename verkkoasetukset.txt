@@ -1,0 +1,55 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : pkky.local
+
+Ethernet adapter vEthernet (Sis„inen):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1ca3:7e04:c512:efb3%17
+   Autoconfiguration IPv4 Address. . : 169.254.239.179
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::b8a6:acf:a770:33a1%16
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter vEthernet (Ulkoinen):
+
+   Connection-specific DNS Suffix  . : fritz.box
+   Link-local IPv6 Address . . . . . : fe80::31bf:c078:e775:7485%52
+   IPv4 Address. . . . . . . . . . . : 192.168.178.30
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.178.1
+
+Wireless LAN adapter L„hiverkkoyhteys* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter L„hiverkkoyhteys* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth-verkkoyhteys:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2033:b6cc:5c7c:2657%31
+   IPv4 Address. . . . . . . . . . . : 192.168.53.33
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 
